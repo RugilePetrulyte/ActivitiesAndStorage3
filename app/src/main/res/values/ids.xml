@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="add_note_activity" type="id" />
+    <item name="delete_note_activity" type="id" />
+    <item name="lvNotes" type="id" />
+    <item name="txtNote" type="id" />
+</resources>

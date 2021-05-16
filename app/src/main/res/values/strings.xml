@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivitiesAndStorage</string>
+    <string name="note_title">Title</string>
+    <string name="btn_add">Add note</string>
+    <string name="open_receiver_activity">Open new activity</string>
+    <string name="add_note">Add note</string>
+    <string name="delete_note">Delete note</string>
+    <string name="remove_note">Remove note</string>
+    <string name="type_note_here">Type note here</string>
+</resources>
